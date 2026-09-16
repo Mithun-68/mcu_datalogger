@@ -1031,7 +1031,7 @@
 		)
 		(uuid "e934eed6-6a90-488a-ba56-731759dcb894")
 	)
-	(hierarchical_label "Vcc"
+	(hierarchical_label "VCC"
 		(shape passive)
 		(at 142.24 73.66 0)
 		(effects
@@ -1097,7 +1097,7 @@
 		)
 		(uuid "787f6a73-4fc1-4282-be57-785a9c7826a1")
 	)
-	(hierarchical_label "Vcc"
+	(hierarchical_label "VCC"
 		(shape passive)
 		(at 110.49 73.66 0)
 		(effects
@@ -1119,7 +1119,7 @@
 		)
 		(uuid "8136075c-7418-4e58-87aa-30b3b1c4fc30")
 	)
-	(hierarchical_label "Vcc"
+	(hierarchical_label "VCC"
 		(shape passive)
 		(at 146.05 96.52 0)
 		(effects
@@ -1240,7 +1240,7 @@
 		)
 		(uuid "c0bbb5d6-2bb6-4374-898d-999298d8360c")
 	)
-	(hierarchical_label "Vcc"
+	(hierarchical_label "VCC"
 		(shape passive)
 		(at 110.49 114.3 0)
 		(effects
