@@ -3673,7 +3673,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 39.37) (xy 254 39.37)
+			(xy 245.11 39.37) (xy 270.51 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3740,16 +3740,6 @@
 			(type default)
 		)
 		(uuid "bed091fd-f7f3-48bc-a8d1-2a933dbd12fb")
-	)
-	(wire
-		(pts
-			(xy 270.51 39.37) (xy 254 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c01fee9d-a101-42d2-b353-4e72aec7472a")
 	)
 	(wire
 		(pts
@@ -4050,6 +4040,30 @@
 			(justify right bottom)
 		)
 		(uuid "06bf8d0a-e729-4fc9-a1bc-2089e2659c3c")
+	)
+	(label "VCC"
+		(at 261.62 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "15486e3a-6a48-4122-bb8f-c455bc4bdc80")
+		(property "Net Class" "Power"
+			(at 261.62 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "SCK"
 		(at 85.09 138.43 0)
