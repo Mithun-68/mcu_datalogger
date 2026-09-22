@@ -8,3 +8,7 @@
 # OS files
 Thumbs.db
 .DS_Store
+
+# Gerber output directories
+2_Layer_MCU_Datalogger_Gerbers/*
+4_Layer_MCU_Datalogger_Gerbers/*
